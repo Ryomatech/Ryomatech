@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love exploring new technologies and improving my skills through hands-on projects and collaboration with the developer community.
+I am a senior at university studying Materials Informatics. My goal is to understand materials using machine learning.
 
 - 🔭 I’m currently working on **MaterialsInformatics**
 - 🌱 I’m currently learning **Machine Learning**
