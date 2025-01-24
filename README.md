@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a senior at university studying Materials Informatics. My goal is to understand materials using machine learning.
+I am a senior at university studying Materials Informatics. My goal is to understand materials by using machine learning.
 
 - 🔭 I’m currently working on **MaterialsInformatics**
 - 🌱 I’m currently learning **Machine Learning**
